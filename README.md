@@ -18,6 +18,8 @@ Automação
 
 
 ⚙️ Características do Python
+
+
 🔹 Multiparadigma
 
 Permite programação procedural, orientada a objetos e funcional.
